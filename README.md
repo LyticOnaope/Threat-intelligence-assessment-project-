@@ -75,6 +75,8 @@ Mapped using MITRE ATT&CK:
 
 If you're a recruiter, cybersecurity lead, or tech enthusiast, feel free to connect with me:
 
-- 🧑‍💻 [LinkedIn - Onaopemipo David](https://www.linkedin.com/in/onaopemipo)
-- 🐙 [GitHub - @itzonaope](https://github.com/itzonaope)
+📍 **[LinkedIn](https://www.linkedin.com/in/onaopemipo-olugbemiro-1b377828b/)**  
+🐦 **[Twitter](https://x.com/myboionaope)**  
+💻 **[GitHub](https://github.com/LyticOnaope)**  
+
 
