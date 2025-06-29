@@ -3,7 +3,7 @@
 **Analyst:** Onaopemipo David Olugbemiro  
 **Role:** Cybersecurity Analyst (Threat Intelligence Focus)  
 **Report Type:** Passive OSINT-Based Threat Intelligence Report  
-**Target Industry:** FinTech  
+**Target Industry:** FinTech **(RAPTACK)**  
 
 ---
 
